@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version": "4.0",
+    "name": "Dregg",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"dregg.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
